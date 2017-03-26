@@ -1,0 +1,8 @@
+table {
+    border-spacing: 3px; /*расстояние между границами ячеек в таблице*/
+    border: 4px double black; /*параметры границы*/
+    background: #eaeaea; /*цвет фона*/
+    /*width: 500px; !*ширина*!*/
+    border-radius: 5px;
+    margin: auto; /*выравнивание по центру окна*/
+}
